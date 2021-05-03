@@ -1,0 +1,515 @@
+# Translation of Themes - Founder in Spanish (Mexico)
+# This file is distributed under the same license as the Themes - Founder package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-01 19:31:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es_MX\n"
+"Project-Id-Version: Themes - Founder\n"
+
+#: inc/customizer.php:149
+msgid "ArtStation"
+msgstr "ArtStation"
+
+#: inc/last-updated-meta-box.php:36
+msgid "Don't show the date"
+msgstr "No mostrar la fecha"
+
+#: inc/last-updated-meta-box.php:32
+msgid "Show the date"
+msgstr "Mostrar la fecha"
+
+#: inc/last-updated-meta-box.php:29
+msgid "Use Customizer setting"
+msgstr "Usar el ajuste del personalizador"
+
+#: inc/last-updated-meta-box.php:12
+msgid "Last Updated Date"
+msgstr "Fecha de última modificación"
+
+#: inc/customizer.php:325
+msgid "Display the date each post was last updated?"
+msgstr "¿Mostrar la fecha de actualización de cada entrada?"
+
+#: inc/customizer.php:315
+msgid "Additional Options"
+msgstr "Opciones adicionales"
+
+#: functions.php:775
+msgid "Last updated on"
+msgstr "Última actualización "
+
+#: functions.php:87
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:86
+msgid "larger"
+msgstr "más grande"
+
+#: functions.php:81
+msgid "L"
+msgstr "L"
+
+#: functions.php:80
+msgid "large"
+msgstr "grande"
+
+#: functions.php:75
+msgid "M"
+msgstr "M"
+
+#: functions.php:74
+msgid "regular"
+msgstr "mediano"
+
+#: functions.php:69
+msgid "S"
+msgstr "S"
+
+#: functions.php:68
+msgid "small"
+msgstr "pequeño"
+
+#: sidebar-primary.php:7
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: inc/customizer.php:301
+msgid "Display Scroll-to-top arrow?"
+msgstr "¿Mostrar la flecha para volver arriba?"
+
+#: inc/customizer.php:291
+msgid "Scroll-to-Top Arrow"
+msgstr "Flecha para volver arriba"
+
+#: inc/customizer.php:151
+msgid "Contact Form"
+msgstr "Formulario de contacto"
+
+#: inc/customizer.php:147
+msgid "Stack Overflow"
+msgstr "Stack Overflow"
+
+#: inc/customizer.php:145
+msgid "PayPal"
+msgstr "PayPal"
+
+#: inc/customizer.php:143
+msgid "Tencent Weibo"
+msgstr "Tencent Weibo"
+
+#: inc/customizer.php:141
+msgid "WeChat"
+msgstr "WeChat"
+
+#: inc/customizer.php:139
+msgid "OK.ru"
+msgstr "OK.ru"
+
+#: inc/customizer.php:137
+msgid "VK"
+msgstr "VK"
+
+#: inc/customizer.php:135
+msgid "QQ"
+msgstr "QQ"
+
+#: inc/customizer.php:133
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: inc/customizer.php:131
+msgid "Google Wallet"
+msgstr "Google Wallet"
+
+#: inc/customizer.php:129
+msgid "Hacker News"
+msgstr "Hacker News"
+
+#: inc/customizer.php:127
+msgid "DeviantArt"
+msgstr "DeviantArt"
+
+#: inc/customizer.php:125
+msgid "StumbleUpon"
+msgstr "StumbleUpon"
+
+#: inc/customizer.php:123
+msgid "CodePen"
+msgstr "CodePen"
+
+#: inc/customizer.php:121
+msgid "SlideShare"
+msgstr "SlideShare"
+
+#: inc/customizer.php:119
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: inc/customizer.php:117
+msgid "RSS"
+msgstr "RSS"
+
+#: inc/customizer.php:107
+msgid "Phone"
+msgstr "Teléfono"
+
+#: functions.php:756
+msgid "Scroll to the top"
+msgstr "Scroll hasta arriba"
+
+#: inc/review.php:113
+msgid "Click here to leave your review"
+msgstr "Haz clic aquí para dejar tu reseña"
+
+#: functions.php:21
+msgid "Hey! Sorry to interrupt, but you've been using Founder for a little while now. If you're happy with this theme, could you take a minute to leave a review? <i>You won't see this notice again after closing it.</i>"
+msgstr "Oye, perdona la interrupción, pero llevas ya algún tiempo utilizando Founder. Si estás contento con el tema ¿te importaría dedicarle un momento a dejarnos una reseña? <i>No volverás a ver este aviso después de que lo cierres.</i>"
+
+#: theme-options.php:5 theme-options.php:6 theme-options.php:19
+msgid "%s Dashboard"
+msgstr "Escritorio de %s"
+
+#: content/comments-link.php:5 content/comments-link.php:8
+msgctxt "noun: 5 comments"
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: functions.php:795 functions.php:800
+msgid "Next"
+msgstr "Siguiente"
+
+#: functions.php:794 functions.php:799
+msgid "Previous"
+msgstr "Anterior"
+
+#: inc/customizer.php:164
+msgid "Accepts Skype link protocol (<a href=\"%s\" target=\"_blank\">learn more</a>)"
+msgstr "Acepta el protocolo de enlace de Skype (<a href=\"%s\" target=\"_blank\">saber más</a>)"
+
+#: functions.php:482 functions.php:483
+msgid "email"
+msgstr "correo-electrónico"
+
+#: functions.php:171
+msgid "(optional)"
+msgstr "(opcional)"
+
+#: inc/customizer.php:253
+msgid "Read More button text"
+msgstr "Texto del botón leer más"
+
+#: inc/customizer.php:241
+msgid "Excerpt word count"
+msgstr "Número de palabras del resumen"
+
+#: inc/customizer.php:202
+msgid "Show search bar at top of site?"
+msgstr "¿Mostrar barra de búsqueda al principio del sitio?"
+
+#: inc/customizer.php:191
+msgid "Search Bar"
+msgstr "Barra de búsqueda"
+
+#: content/search-bar.php:13
+msgid "Search..."
+msgstr "Buscar..."
+
+#: inc/customizer.php:95
+msgid "Email Address"
+msgstr "Dirección de correo electrónico"
+
+#: inc/customizer.php:81
+msgid "Add the URL for each of your social profiles."
+msgstr "Añade la URL para cada uno de tus perfiles sociales."
+
+#: comments.php:23 comments.php:44 comments.php:66
+msgid "Comments"
+msgstr "Comentarios"
+
+#: inc/customizer.php:52
+msgid "Logo"
+msgstr "Logotipo"
+
+#: sidebar-primary.php:10
+msgid "sidebar icon"
+msgstr "Icono de la barra lateral"
+
+#: searchform.php:6
+msgid "Go"
+msgstr "Ir"
+
+#: searchform.php:5 content/search-bar.php:14
+msgid "Search for:"
+msgstr "Buscar por:"
+
+#: searchform.php:3 content/search-bar.php:12
+msgid "Search"
+msgstr "Buscar"
+
+#: search.php:36
+msgid "Can't find what you're looking for? Try refining your search:"
+msgstr "¿No puedes encontrar lo que estás buscando? Inténtalo de nuevo redefiniendo tu búsqueda:"
+
+#: search.php:12
+msgid "No search results for \"%s\""
+msgstr "No hay resultados de búsqueda para \"%s\""
+
+#: search.php:10
+msgid "%1$d search result for \"%2$s\""
+msgid_plural "%1$d search results for \"%2$s\""
+msgstr[0] "%1$d resultado de búsqueda para  \"%2$s\""
+msgstr[1] "%1$d resultados de búsqueda para  \"%2$s\""
+
+#. translators: verb: edit to this comment
+#: functions.php:158
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/scripts.php:20
+msgid "close sidebar"
+msgstr "cerrar la barra lateral"
+
+#: inc/scripts.php:19 sidebar-primary.php:9
+msgid "open sidebar"
+msgstr "abrir barra lateral"
+
+#: inc/scripts.php:18
+msgid "close menu"
+msgstr "Cerrar menú"
+
+#: inc/customizer.php:207 inc/customizer.php:395
+msgid "Hide"
+msgstr "Ocultar"
+
+#: inc/customizer.php:206 inc/customizer.php:394
+msgid "Show"
+msgstr "Mostrar"
+
+#: inc/customizer.php:377
+msgid "Add Custom CSS Here:"
+msgstr "Añadir CSS personalizado aquí"
+
+#: inc/customizer.php:367
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: inc/customizer.php:282 inc/customizer.php:416
+msgid "Do not show"
+msgstr "No mostrar"
+
+#: inc/customizer.php:281 inc/customizer.php:415
+msgid "Attachments"
+msgstr "Adjuntos"
+
+#: inc/customizer.php:280 inc/customizer.php:414
+msgid "Pages"
+msgstr "Páginas"
+
+#: inc/customizer.php:279 inc/customizer.php:413 content/archive-header.php:10
+msgid "Posts"
+msgstr "Entradas"
+
+#: inc/customizer.php:274
+msgid "Show comments on:"
+msgstr "Mostrar comentarios en:"
+
+#: inc/customizer.php:263
+msgid "Comment Display"
+msgstr "Visualización de comentario"
+
+#: inc/customizer.php:231 inc/customizer.php:307 inc/customizer.php:331
+#: inc/customizer.php:347 inc/customizer.php:430
+msgid "No"
+msgstr "No"
+
+#: inc/customizer.php:230 inc/customizer.php:306 inc/customizer.php:330
+#: inc/customizer.php:346 inc/customizer.php:429
+msgid "Yes"
+msgstr "Sí"
+
+#: inc/customizer.php:225
+msgid "Show full posts on blog?"
+msgstr "¿Mostrar las entradas completas en el blog?"
+
+#: inc/customizer.php:215
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/customizer.php:79
+msgid "Social Media Icons"
+msgstr "Íconos de redes sociales"
+
+#: inc/customizer.php:63
+msgid "Upload custom logo."
+msgstr "Subir logo personalizado."
+
+#: header.php:34
+msgid "primary menu icon"
+msgstr "ícono del menú principal"
+
+#: header.php:17
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: functions.php:614
+msgid "Customizer settings deleted."
+msgstr "Ajustes del personalizador borrados."
+
+#: functions.php:552
+msgid "Featured Post"
+msgstr "Entrada destacada"
+
+#: header.php:33 inc/scripts.php:17 functions.php:538
+msgid "open menu"
+msgstr "abrir menú"
+
+#: inc/customizer.php:248 functions.php:247 functions.php:311
+msgid "Continue reading"
+msgstr "Seguir leyendo"
+
+#: functions.php:212
+msgid "Comment"
+msgstr "Comentario"
+
+#: functions.php:190
+msgid "Website"
+msgstr "Web"
+
+#: functions.php:183
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: functions.php:176
+msgid "Name"
+msgstr "Nombre"
+
+#. translators: verb: reply to this comment
+#: functions.php:152
+msgid "Reply"
+msgstr "Responder"
+
+#: functions.php:143
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está pendiente de moderación."
+
+#: functions.php:118
+msgid "Widgets in this area will be shown in the sidebar."
+msgstr "Los widgets en esta zona aparecerán en la barra lateral."
+
+#: functions.php:116
+msgid "Primary Sidebar"
+msgstr "Barra lateral principal"
+
+#: functions.php:96
+msgid "Primary"
+msgstr "Principal"
+
+#: footer.php:12
+msgid "<a href=\"%1$s\">%2$s WordPress Theme</a> by Compete Themes."
+msgstr "<a href=\"%1$s\">Tema %2$s para WordPress</a> por Compete Themes."
+
+#: content-page.php:11 templates/full-width.php:21 content.php:13
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: content/post-tags.php:9
+msgid "View all posts tagged %s"
+msgstr "Ver todas las entradas etiquetadas con %s"
+
+#: content/post-tags.php:6
+msgid "Tagged in"
+msgstr "Etiquetado en"
+
+#: content/post-nav.php:27
+msgid "No Newer Posts"
+msgstr "No hay entradas más recientes"
+
+#: content/post-nav.php:24
+msgid "The Next Post"
+msgstr "La siguiente entrada"
+
+#: content/post-nav.php:23
+msgid "Next Post"
+msgstr "Siguiente entrada "
+
+#: content/post-nav.php:14 content/post-nav.php:28
+msgid "Return to Blog"
+msgstr "Volver al blog"
+
+#: content/post-nav.php:13
+msgid "No Older Posts"
+msgstr "No hay entradas anteriores"
+
+#: content/post-nav.php:10
+msgid "The Previous Post"
+msgstr "La entrada anterior"
+
+#: content/post-nav.php:9
+msgid "Previous Post"
+msgstr "Entrada anterior"
+
+#: content/post-nav-attachment.php:6
+msgid "Next Image"
+msgstr "Siguiente imagen"
+
+#: content/post-nav-attachment.php:3
+msgid "Previous Image"
+msgstr "Imagen anterior"
+
+#. translators: Published "date" by "author"
+#: content/post-meta.php:10
+msgid "Published %1$s by %2$s"
+msgstr "Publicado el %1$s por %2$s"
+
+#. translators: View all posts in post category
+#: content/post-categories.php:13
+msgid "View all posts in %s"
+msgstr "Ver todas las entradas en %s"
+
+#. translators: Published in post category
+#: content/post-categories.php:10
+msgid "Published in"
+msgstr "Publicado en"
+
+#: content/comments-link.php:8
+msgid "Leave a Comment"
+msgstr "Deja un comentario"
+
+#: content/comments-link.php:5
+msgid "Comments closed"
+msgstr "Comentarios cerrados"
+
+#: content/comments-link.php:2
+msgid "comment icon"
+msgstr "icono de comentario"
+
+#: comments.php:80 comments.php:97
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:58
+msgid "Comments are closed, but <a href=\"%s\" title=\"Trackback URL for this post\">trackbacks</a> and pingbacks are open."
+msgstr "Los comentarios están cerrados, pero los <a href=\"%s\" title=\"URL de trackback para esta entrada \">trackbacks</a> y pingbacks están abiertos."
+
+#: comments.php:23 comments.php:44 comments.php:66
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: comments.php:23 comments.php:44 comments.php:66 content/comments-link.php:5
+#: content/comments-link.php:8
+msgid "One Comment"
+msgstr "Un comentario"
+
+#: 404.php:9
+msgid "Looks like nothing was found on this url.  Double-check that the url is correct or try the search form below to find what you were looking for."
+msgstr "Parece que no se encontró nada en esta URL. Comprueba dos veces que la URL es correcta o prueba el formulario de búsqueda de abajo para encontrar lo que estabas buscando."
+
+#: 404.php:6
+msgid "404: Page Not Found"
+msgstr "404: Página no encontrada"
